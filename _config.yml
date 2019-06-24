@@ -1,4 +1,1 @@
 theme: jekyll-theme-tactile
-url: "https://frankzappasmustache.github.io/"
-# Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ".well-known"
