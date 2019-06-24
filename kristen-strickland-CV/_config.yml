@@ -4,9 +4,9 @@
 # Edit next line, providing your own name.
 title: Kristen Strickland | CV
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://frankzappasmustache.github.io/"
+url: "https://frankzappasmustache.github.io/.well-known"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ".well-known/kristen-strickland-CV"
+baseurl: "kristen-strickland-CV"
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
