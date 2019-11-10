@@ -1,25 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Kristen Strickland",
+    "label": "Photographer, Film Maker, and Audio Technician",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "kristen.e.stricklnd@gmail.com",
+    "phone": "601-985-07372",
+    "website": "https://frankzappasmustache.github.io/Kristen-Strickland",
+    "summary": ,
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "98225",
+      "city": "Bellingham",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Washington"
     },
     "profiles": [
-      {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
+      //{
+        //"network": "github",
+        //"username": "mmaluhia",
+        //"url": "http://github.com/changeme"
+      //},
       {
         "network": "linkedin",
         "username": "mollymaluhia",

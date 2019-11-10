@@ -4,14 +4,15 @@
 # Edit next line, providing your own name.
 title: Kristen Strickland | CV
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://frankzappasmustache.github.io"
+url: "https://frankzappasmustache.github.io/Kristen-Strickland"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: ".well-known"
+# baseurl: ".well-known"
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
 bio-page-label: CV
-# You might want to change the theme associated with one or more sections of the site.
+# You might want to change the theme associated with one or more sections of the
+# site.
 # Defining your own custom theme variations is easy. See the documentation.
 theme-home: theme-home-builtin-1.html
 theme-projects: theme-projects-builtin-1.html
@@ -24,4 +25,3 @@ rouge-theme: igorpro
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
-
