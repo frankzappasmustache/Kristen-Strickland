@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kristen Strickland",
     "label": "Photographer, Film Maker, and Audio Technician",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://frankzappasmustache.github.io/Kristen-Strickland/images/kristen-2.png",
     "email": "kristen.e.stricklnd@gmail.com",
     "phone": "601-985-07372",
     "website": "https://frankzappasmustache.github.io/Kristen-Strickland",
@@ -17,147 +17,143 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "frankzappasmustache",
+        "url": "https://github.com/frankzappasmustache"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "dustin-mcclure-8004583b",
+        "url": "https://www.linkedin.com/in/dustin-mcclure-8004583b/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "dustinmcclure20",
+        "url": "http://twitter.com/dustinmcclure20"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "hgbtx",
+        "url": "http://instagram.com/hgbtx"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "photography",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "medium format",
+        "fine art"
       ]
     },
     {
-      "name": "data mining",
+      "name": "cinematography",
       "keywords": [
+      	"audio technician",
+      	"grip",
+      	"post production",
+      	"Davinci Resolve",
+      	"Adobe Premiere"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "lean processing",
       "keywords": [
+      	"automation",
+      	"efficiency"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "The School of Hard Knocks",
+      "area": "ass kicking",
+      "studyType": "yo momma",
+      "startDate": "1992-11-24",
+      "endDate": "never",
+      "gpa": "ain't no gpa in tha streets",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Chuckanut Feline Center",
+      "position": "Vet Assistant",
+      "website": "https://www.chuckanutvet.com/feline-center/",
+      "startDate": "2018-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Lovin' those kitties",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "",
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Bellingham Community Food Co-op",
+      "position": "Deli Lead/Supervisor",
+      "website": "https://communityfood.coop",
+      "startDate": "2016-01-01",
+      "endDate": "2017-08-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "The coalition for pleasing yo momma",
+      "website": "",
+      "position": "Head Receiver",
+      "startDate": "2011-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
